@@ -1,5 +1,9 @@
 # ENCM-509-FinalProject
-Face Recognition
+Face Recognition Algos
 
-Google Drive (private link): https://drive.google.com/drive/folders/1XapzuD9txrV4MEswmxRFdeH1NoLz23h9?usp=sharing
+using ATT face dataset
+
+Comparing LBP and gray scaled pre processing
+
+Comparing SVM and MLP
 
